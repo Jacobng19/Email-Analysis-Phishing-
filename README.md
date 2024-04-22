@@ -11,10 +11,12 @@ The Email Analysis (Phishing) Lab project aims to conduct a comprehensive email 
 ### Tools Used
 
 - Windows Virtual Machine
+- SquareX: File Viewer
 - Notepad ++
 - Cyberchef
 - GCK'S File Signatures Table
-
+- Metadata2Go
+  
 ## Steps
 
 
