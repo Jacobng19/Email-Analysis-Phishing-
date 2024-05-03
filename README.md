@@ -10,7 +10,7 @@ The Email Analysis (Phishing) Lab project aims to conduct a comprehensive email 
 - Incident Response
 - URL Investigation
 - IP Address Investigation
-- Common Red Flags
+- IOCs
 
 ### Tools Used
 
